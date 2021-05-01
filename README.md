@@ -1,3 +1,4 @@
+![](https://github.com/kabuhuzin/damage-calc-4005-gh-actions/workflows/Damage Calculation/badge.svg)
 # damage-calc
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
